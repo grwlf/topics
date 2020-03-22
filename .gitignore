@@ -1,0 +1,10 @@
+result
+.*
+*pyc
+_*/
+tags
+data/*
+nixpkgs
+venv
+nltk_data
+*png
