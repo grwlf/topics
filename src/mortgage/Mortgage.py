@@ -27,6 +27,12 @@ def mort_capital(t:float, p:float, m:float)->float:
   S=((1+p)**t - 1)/p
   return m*S/(1+p*S)
 
+def mort_month(C:float, t:float, p:float)->float:
+  """ Return capital refunded if use mortgage during time `t`,
+  with interes rate `p` and annual payments `m` """
+  S=((1+p)**t - 1)/p
+  return C*(1+p*S)/S
+
 def _mort_iter(C:float=10e6, p:float=0.1, d:float=12*30e3)->Tuple[float,float]:
   """ Same as `mort_time`, but works iteratively """
   s=0;Ci=C;di=d;i=0
