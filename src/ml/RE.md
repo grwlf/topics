@@ -23,3 +23,24 @@ Relation Extraction
   2. Few-shot matching: match query relation type with not-known in advance
      types of several example relations.
 
+### Position-aware Attention and Supervised Data Improve Slot Filling
+
+* <https://nlp.stanford.edu/pubs/zhang2017tacred.pdf>
+
+
+### FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset
+
+* <https://arxiv.org/pdf/1810.10147>
+* Operates on `(s,e1,e2,r)` where s - Wikipedia sentece, e1,e2 - Wikidata
+  enitites, r - relation
+* 700 sentences per relation, 100 relations, 70K sentences total
+* TACRED has only 24 relations, 16K sententes total
+* Evalutations:
+  - Taks is to obtain a function `F:(R,S,x)->y` where R - set of relations, S -
+    support set of data `(s,e1,e2)`, x - a sampe of data to classify, y - element of R.
+  - Evaluated CNN and PCNN models (PCNN is CNN with piecewise max-pooling).
+  - Use Few-shot learning techinques for evaluation, like
+    + Meta-learner/Base-learner models. Models GNN, SNAIL
+
+
+
