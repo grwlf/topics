@@ -46,3 +46,7 @@ BERT training
 * GitHub https://github.com/pytorch/fairseq/tree/master/examples/quant_noise
 
 
+### ELectra
+
+* Blog https://ai.googleblog.com/2020/03/more-efficient-nlp-model-pre-training.html
+* GitHub https://github.com/google-research/electra
