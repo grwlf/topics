@@ -5,6 +5,9 @@ Program Induction
   - WIP
   - Surwey
 
+* https://arxiv.org/abs/2003.09040
+  - 2020, Kensen Shi, TF-Coder: Program Synthesis for Tensor Manipulations
+
 * https://arxiv.org/abs/2007.03132
   - 2020, Hewitt, Learning to learn generative programs with Memoised Wake-Sleep
   - Supposedely describes Generative Probabilistic Regex
@@ -38,13 +41,13 @@ Program Induction
   - 2017, Balog, DeepCoder: Learning to Write Programs
   - *DeepCoder* described here
 
-* https://people.eecs.berkeley.edu/~jordan/papers/liang-jordan-klein-icml10.pdf
-  - 2010, Liang, Learning programs: A hierarchical bayesian approach.
-
 * https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf
   - 2016, Gulwani, Automating string processing in spreadsheets using
     input-output examples.
   - FlashFill originates from here (TODO: check)
+
+* https://people.eecs.berkeley.edu/~jordan/papers/liang-jordan-klein-icml10.pdf
+  - 2010, Liang, Learning programs: A hierarchical bayesian approach.
 
 DreamCoder
 ----------
@@ -81,9 +84,11 @@ Existing methods:
 * Antiunification (caching reused tree-templates wich unify with program syntax
   tree, ???)
 * DreamCoder:
-  ``` Our abstraction sleep algorithm works through automatic refactoring,
+  ```
+  Our abstraction sleep algorithm works through automatic refactoring,
   discovering and incorporating into the library syntax trees which are not
-  present in the surface form of programs available to the learner.```
+  present in the surface form of programs available to the learner.
+  ```
 
 
 
