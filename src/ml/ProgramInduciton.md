@@ -16,9 +16,11 @@ Program Induction
   - 2020, DreamCoder: Growing generalizable, interpretable knowledge with
     wake-sleep Bayesian program learning
   - PwC https://paperswithcode.com/paper/dreamcoder-growing-generalizable
-  - Supplementary materials:
-    https://web.mit.edu/ellisk/www/dreamcodersupplement.pdf Unfortunately, it
-    looks like supplementary has a recursive links to the parent paper.
+  - [Supplementary
+    materials](https://web.mit.edu/ellisk/www/dreamcodersupplement.pdf)
+    Unfortunately, it looks like supplementary has a recursive links to the
+    parent paper.
+  - [GitHub link](https://github.com/ellisk42/ec)
   - References:
     + RobustFill
     + DeepCoder
