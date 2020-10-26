@@ -20,6 +20,7 @@ Program Induction
 * http://learningsys.org/sosp19/assets/papers/22_CameraReadySubmission_Abstract___SOSP__19_ML_Sys_workshop-4.pdf
   - The Case for a Learned Sorting Algorithm
   - 2020 June, Ani Kristo, SIGMOD'20
+  - Describes *MER-Sort* (Model-Enhanced Radix Sort)
 
 * https://arxiv.org/abs/2006.08381
   - DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep
@@ -77,8 +78,8 @@ Program Induction
   - Learning programs: A hierarchical bayesian approach.
   - 2010, Liang
 
-DreamCoder
-----------
+Details on DreamCoder
+---------------------
 
 ### Tasks
 
@@ -118,6 +119,9 @@ Existing methods:
   present in the surface form of programs available to the learner.
   ```
 
+Resources
+---------
 
+* https://www.arxiv-vanity.com/
 
 
