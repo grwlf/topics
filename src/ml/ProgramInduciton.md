@@ -6,15 +6,22 @@ Program Induction
   - Surwey
 
 * https://arxiv.org/abs/2003.09040
-  - 2020, Kensen Shi, TF-Coder: Program Synthesis for Tensor Manipulations
+  - TF-Coder: Program Synthesis for Tensor Manipulations
+  - 2020, Kensen Shi
+  - Describes *TF-Coder*
+  - PwC https://paperswithcode.com/paper/tf-coder-program-synthesis-for-tensor
+  - GitHub https://github.com/google-research/tensorflow-coder
 
 * https://arxiv.org/abs/2007.03132
-  - 2020, Hewitt, Learning to learn generative programs with Memoised Wake-Sleep
+  - Learning to learn generative programs with Memoised Wake-Sleep
+  - 2020, Hewitt
   - Supposedely describes Generative Probabilistic Regex
 
 * https://arxiv.org/abs/2006.08381
-  - 2020, DreamCoder: Growing generalizable, interpretable knowledge with
-    wake-sleep Bayesian program learning
+  - DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep
+    Bayesian program learning
+  - 2020 June 15, Kevin Ellis
+  - Describes *DreamCoder*
   - PwC https://paperswithcode.com/paper/dreamcoder-growing-generalizable
   - [Supplementary
     materials](https://web.mit.edu/ellisk/www/dreamcodersupplement.pdf)
@@ -27,29 +34,44 @@ Program Induction
     + Candidate structures (as in Liang, 2010)
     + FlashFill (13)
 
+* https://arxiv.org/abs/2006.06762
+  - Ansor: Generating High-Performance Tensor Programs for Deep Learning
+  - 2020 June 11, Lianmin Zheng
+
 * https://arxiv.org/pdf/1902.06349.pdf
-  - 2019, Learning to Infer Program Sketches
+  - Learning to Infer Program Sketches
+  - 2019
 
 * https://arxiv.org/pdf/1703.05698v5.pdf
-  - 2018, Neural Sketch Learning for Conditional Program Generation
+  - Neural Sketch Learning for Conditional Program Generation
+  - 2018
   - PwC https://paperswithcode.com/paper/neural-sketch-learning-for-conditional
   - GitHub https://github.com/trishullab/bayou
 
+* https://arxiv.org/abs/1805.08166
+  - Learning to Optimize Tensor Programs
+  - 2018, Tianqi Chen
+  - Describes *AutoTVM* of TVM
+
 * https://papers.nips.cc/paper/6803-neural-program-meta-induction
-  - 2017, Neural Program Meta-Induction
-  - *RobustFill* originates from this paper
+  - Neural Program Meta-Induction
+  - 2017
+  - Describes *RobustFill*
 
 * https://arxiv.org/abs/2007.03132
-  - 2017, Balog, DeepCoder: Learning to Write Programs
-  - *DeepCoder* described here
+  - DeepCoder: Learning to Write Programs
+  - 2016, Balog
+  - Describes *DeepCoder*
+  - PwC: https://paperswithcode.com/paper/deepcoder-learning-to-write-programs
 
 * https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf
-  - 2016, Gulwani, Automating string processing in spreadsheets using
-    input-output examples.
-  - FlashFill originates from here (TODO: check)
+  - Automating string processing in spreadsheets using input-output examples.
+  - 2016, Gulwani
+  - Describes *FlashFill* (TODO: check)
 
 * https://people.eecs.berkeley.edu/~jordan/papers/liang-jordan-klein-icml10.pdf
-  - 2010, Liang, Learning programs: A hierarchical bayesian approach.
+  - Learning programs: A hierarchical bayesian approach.
+  - 2010, Liang
 
 DreamCoder
 ----------
