@@ -17,6 +17,10 @@ Program Induction
   - 2020, Hewitt
   - Supposedely describes Generative Probabilistic Regex
 
+* http://learningsys.org/sosp19/assets/papers/22_CameraReadySubmission_Abstract___SOSP__19_ML_Sys_workshop-4.pdf
+  - The Case for a Learned Sorting Algorithm
+  - 2020 June, Ani Kristo, SIGMOD'20
+
 * https://arxiv.org/abs/2006.08381
   - DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep
     Bayesian program learning
