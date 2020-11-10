@@ -43,6 +43,10 @@ Program Induction
   - Ansor: Generating High-Performance Tensor Programs for Deep Learning
   - 2020 June 11, Lianmin Zheng
 
+* https://arxiv.org/abs/1912.12345
+  - Synthetic Datasets for Neural Program Synthesis
+  - 2019 Dec 27, Richard Shin
+
 * https://arxiv.org/pdf/1902.06349.pdf
   - Learning to Infer Program Sketches
   - 2019
