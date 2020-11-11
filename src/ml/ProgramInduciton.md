@@ -1,5 +1,5 @@
-Program Induction
------------------
+Program Synthesis and Program Induction
+---------------------------------------
 
 * https://arxiv.org/pdf/2008.07912.pdf
   - WIP
